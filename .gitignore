@@ -1,0 +1,20 @@
+# Ignora archivos sensibles
+*.pem
+*.key
+*.env
+.env.*
+secrets.json
+
+# Ignora artefactos del sistema
+.DS_Store
+node_modules/
+vendor/
+
+# Ignora carpetas de compilación y logs
+dist/
+logs/
+*.log
+
+# Mantiene .github/workflows
+!.github/
+!.github/workflows/
