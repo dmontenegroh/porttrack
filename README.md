@@ -73,7 +73,7 @@ El flujo CI/CD se ejecuta automáticamente en cada push a la rama `main`:
 
 1. Clona el proyecto:
    ```bash
-   git clone https://github.com/tu-usuario/porttrack-cicd.git
+   git clone https://github.com/dmontenegroh/porttrack.git
    cd porttrack-cicd
    ```
 
