@@ -1,0 +1,1 @@
+Coloca aquí los JSON exportados de dashboards personalizados.
